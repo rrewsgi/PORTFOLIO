@@ -1,6 +1,6 @@
-'use client'
+// 'use client'
 
-import { useState } from 'react';
+// import { useState } from 'react';
 import Image from "next/image";
 
 const Header = () => {
