@@ -1,11 +1,6 @@
-// 'use client'
-
-// import { useState } from 'react';
 import Image from "next/image";
 
 const Header = () => {
-    // const [isDarkMode, setIsDarkMode] = useState(false);
-    // const [isMuted, setIsMuted] = useState(true);
 
     return (
         <header className="flex justify-start items-center p-4">
